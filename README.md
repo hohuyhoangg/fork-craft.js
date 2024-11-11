@@ -1,1 +1,1 @@
-# fork-craft.js
+packages/core/README.md
