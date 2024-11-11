@@ -13289,6 +13289,57 @@ clsx@latest:
   languageName: node
   linkType: hard
 
+"fork-craft@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "fork-craft@workspace:."
+  dependencies:
+    "@babel/cli": 7.20.7
+    "@babel/core": 7.20.12
+    "@babel/plugin-proposal-class-properties": 7.18.6
+    "@babel/plugin-proposal-object-rest-spread": 7.20.7
+    "@babel/preset-env": 7.20.2
+    "@babel/preset-typescript": 7.18.6
+    "@changesets/changelog-github": 0.4.8
+    "@changesets/cli": 2.26.0
+    "@rollup/plugin-babel": 6.0.3
+    "@rollup/plugin-node-resolve": 15.0.1
+    "@rollup/plugin-terser": 0.4.0
+    "@rollup/plugin-typescript": 11.0.0
+    "@testing-library/react": 13.4.0
+    "@types/jest": 29.4.0
+    "@types/react-dom": 18.0.10
+    "@typescript-eslint/eslint-plugin": 2.14.0
+    "@typescript-eslint/parser": 2.14.0
+    all-contributors-cli: 6.11.2
+    babel-eslint: 10.0.3
+    cross-env: 6.0.3
+    cypress: 6.5.0
+    enzyme: 3.11.0
+    eslint: 8.34.0
+    eslint-config-prettier: 8.6.0
+    eslint-config-react-app: 7.0.1
+    eslint-plugin-import: 2.27.5
+    eslint-plugin-jsx-a11y: 6.7.1
+    eslint-plugin-prettier: 4.2.1
+    eslint-plugin-react: 7.32.2
+    eslint-plugin-react-hooks: 4.6.0
+    husky: 3.1.0
+    jest: 29.4.2
+    jest-environment-jsdom: ^29.4.2
+    lerna: 7.3.0
+    lint-staged: 9.5.0
+    nodemon: 2.0.20
+    npm-run-all: 4.1.5
+    prettier: 2.0.1
+    pretty-quick: 2.0.1
+    rimraf: 3.0.2
+    rollup: 2.79.0
+    sass: ^1.80.6
+    ts-jest: 29.0.5
+    typescript: 4.9.5
+  languageName: unknown
+  linkType: soft
+
 "fork-ts-checker-webpack-plugin@npm:^6.5.0":
   version: 6.5.2
   resolution: "fork-ts-checker-webpack-plugin@npm:6.5.2"
@@ -24109,57 +24160,6 @@ clsx@latest:
   checksum: 166f1ffea1898e157003920065b3a328e7012ea6808860ee8fe5d1ce94804fcce9985c95a3c0f7fe9c611aff0d09a70f073f1d6f715c8faba28e4e40f71ee3bb
   languageName: node
   linkType: hard
-
-"root-workspace-0b6124@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "root-workspace-0b6124@workspace:."
-  dependencies:
-    "@babel/cli": 7.20.7
-    "@babel/core": 7.20.12
-    "@babel/plugin-proposal-class-properties": 7.18.6
-    "@babel/plugin-proposal-object-rest-spread": 7.20.7
-    "@babel/preset-env": 7.20.2
-    "@babel/preset-typescript": 7.18.6
-    "@changesets/changelog-github": 0.4.8
-    "@changesets/cli": 2.26.0
-    "@rollup/plugin-babel": 6.0.3
-    "@rollup/plugin-node-resolve": 15.0.1
-    "@rollup/plugin-terser": 0.4.0
-    "@rollup/plugin-typescript": 11.0.0
-    "@testing-library/react": 13.4.0
-    "@types/jest": 29.4.0
-    "@types/react-dom": 18.0.10
-    "@typescript-eslint/eslint-plugin": 2.14.0
-    "@typescript-eslint/parser": 2.14.0
-    all-contributors-cli: 6.11.2
-    babel-eslint: 10.0.3
-    cross-env: 6.0.3
-    cypress: 6.5.0
-    enzyme: 3.11.0
-    eslint: 8.34.0
-    eslint-config-prettier: 8.6.0
-    eslint-config-react-app: 7.0.1
-    eslint-plugin-import: 2.27.5
-    eslint-plugin-jsx-a11y: 6.7.1
-    eslint-plugin-prettier: 4.2.1
-    eslint-plugin-react: 7.32.2
-    eslint-plugin-react-hooks: 4.6.0
-    husky: 3.1.0
-    jest: 29.4.2
-    jest-environment-jsdom: ^29.4.2
-    lerna: 7.3.0
-    lint-staged: 9.5.0
-    nodemon: 2.0.20
-    npm-run-all: 4.1.5
-    prettier: 2.0.1
-    pretty-quick: 2.0.1
-    rimraf: 3.0.2
-    rollup: 2.79.0
-    sass: ^1.80.6
-    ts-jest: 29.0.5
-    typescript: 4.9.5
-  languageName: unknown
-  linkType: soft
 
 "rst-selector-parser@npm:^2.2.3":
   version: 2.2.3
